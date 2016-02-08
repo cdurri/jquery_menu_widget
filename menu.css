@@ -1,0 +1,74 @@
+.main_menu {
+
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+
+.menu {
+
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	border-radius: 50px;
+}
+
+#menu_1 {
+
+	left: 0;
+	bottom: 0;
+	position: absolute;
+	z-index: 1;
+	border: 1px solid black;
+}
+
+#menu_2 {
+	
+	left: 0;
+	bottom: 0;
+	position: absolute;
+	z-index: 2
+	border: 1px solid black;
+}
+
+#menu_3 {
+	
+	left: 0;
+	bottom: 0;
+	position: absolute;
+	z-index: 3;
+	border: 1px solid black;
+}
+
+#menu_4 {
+	
+	left: 0;
+	bottom: 0;
+	position: absolute;
+	z-index: 4;
+	border: 1px solid black;
+}
+
+#menu_5 {
+	
+	left: 0;
+	bottom: 0;
+	position: absolute;
+	z-index: 5;
+	border: 1px solid black;
+}
+
+#menu_6 {
+	
+	left: 0;
+	bottom: 0;
+	position: absolute;
+	z-index: 6;
+	border: 1px solid black;
+}
+
+#menu_6:active {
+
+	 transform: rotate(45deg);
+}
+
